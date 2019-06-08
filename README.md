@@ -1,15 +1,15 @@
 
-ImageChangeColorRunTime
+Image Change Color Run Time
 =========
 
-## ImageChangeColorRunTime.
+## Image Change Color Run Time.
 ------------
  Added Some screens here.
  
- [![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/1.png)]
- [![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/2.png)]
- [![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/3.png)]
- [![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/4.png)]
+ ![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/1.png)
+ ![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/2.png)
+ ![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/3.png)
+ ![](https://github.com/pawankv89/ImageChangeColorRunTime/blob/master/Screens/4.png)
 
 ## Usage
 ------------
