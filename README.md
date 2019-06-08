@@ -13,7 +13,7 @@ Image Change Color Run Time
 
 ## Usage
 ------------
- iOS 9 Demo showing Multiple color with default png file on UIImageView  iPhone X Simulator in  Objective-C and Swift 4.0.
+ iOS 9 Demo showing Multiple color with default png file on UIImageView  iPhone X Simulator in  Objective-C and Swift 5.0.
 
 
 ```objective-c
