@@ -34,14 +34,12 @@ class ViewController: UIViewController {
         let red : CGFloat = CGFloat((arc4random() % 99767) / 32767)
         let green : CGFloat = CGFloat((arc4random() % 99767) / 32767)
         let blue : CGFloat = CGFloat((arc4random() % 99767) / 32767)
-        let x : CGFloat = UIScreen.main.bounds.size.width * CGFloat((arc4random() % 99767) / 32767)
-        let y : CGFloat = UIScreen.main.bounds.size.height * CGFloat((arc4random() % 99767) / 32767)
         
         let randomColor : UIColor = UIColor.init(red: red, green: green, blue: blue, alpha: 1)
         
         UIView.animate(withDuration: 0.3) {
             
-            self.appleImageView.center = CGPoint(x: x, y: y)
+            self.appleImageView.center = self.view.center
             self.appleImageView.image = self.appleImageView.image?.withRenderingMode(.alwaysTemplate)
             self.appleImageView.tintColor = randomColor
         }
